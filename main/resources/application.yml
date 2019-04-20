@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: ImoocMerchants
+  datasource:
+    url: jdbc:mysql://47.99.127.204/passbook?autoReconnect=true&useSSL=false
+    username: root
+    password: Luxin19951029!@#
+  kafka:
+    bootstrap-servers: 47.99.127.204:9092
+    consumer:
+      group-id: passbook
+    listener:
+      concurrency: 4
+
+server:
+  port: 9527
+
+logging:
+  level: debug
+  file: imooc-merchants.log
+
