@@ -32,8 +32,10 @@ public class PassTemplate {
     /** 最大个数限制 */
     private Long limit;
 
-    /** 优惠券是否有 Token, 用于商户核销 */
-    private Boolean hasToken; // token 存储于 Redis Set 中, 每次领取从 Redis 中获取
+    /** 优惠券是否有 Token, 用于商户核销
+     * token 存储于 Redis Set 中, 每次领取从 Redis 中获取
+     */
+    private Boolean hasToken;
 
     /** 优惠券背景色 */
     private Integer background;
