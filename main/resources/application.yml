@@ -2,11 +2,11 @@ spring:
   application:
     name: ImoocMerchants
   datasource:
-    url: jdbc:mysql://47.99.127.204/passbook?autoReconnect=true&useSSL=false
+    url: jdbc:mysql://123132465465/passbook?characterEncoding=utf8&autoReconnect=true&useSSL=false
     username: root
-    password: Luxin19951029!@#
+    password: 1321654
   kafka:
-    bootstrap-servers: 47.99.127.204:9092
+    bootstrap-servers: 123123465:9092
     consumer:
       group-id: passbook
     listener:

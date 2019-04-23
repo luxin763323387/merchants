@@ -13,5 +13,5 @@ public class Constants {
     public static final String TOKEN_STRING = "token";
 
     /** token info */
-    public static final String TOKEN = "imooc-passbook-merchants";
+    public static final String TOKEN = "passbook-merchants";
 }
