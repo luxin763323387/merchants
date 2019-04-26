@@ -1,13 +1,13 @@
-package com.cn.lx.merchants.merchants.vo;
+package com.cn.lx.merchants.vo;
 
 /**
  * @author StevenLu
  * @date 2019/4/13
  */
 
-import com.cn.lx.merchants.merchants.constant.ErrorCode;
-import com.cn.lx.merchants.merchants.dao.MerchantsDao;
-import com.cn.lx.merchants.merchants.entity.Merchants;
+import com.cn.lx.merchants.constant.ErrorCode;
+import com.cn.lx.merchants.dao.MerchantsDao;
+import com.cn.lx.merchants.entity.Merchants;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

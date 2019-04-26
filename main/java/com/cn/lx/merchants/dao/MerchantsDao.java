@@ -1,6 +1,6 @@
-package com.cn.lx.merchants.merchants.dao;
+package com.cn.lx.merchants.dao;
 
-import com.cn.lx.merchants.merchants.entity.Merchants;
+import com.cn.lx.merchants.entity.Merchants;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

@@ -1,8 +1,8 @@
-package com.cn.lx.merchants.merchants.service;
+package com.cn.lx.merchants.service;
 
-import com.cn.lx.merchants.merchants.vo.CreateMerchantsRequest;
-import com.cn.lx.merchants.merchants.vo.PassTemplate;
-import com.cn.lx.merchants.merchants.vo.Response;
+import com.cn.lx.merchants.vo.CreateMerchantsRequest;
+import com.cn.lx.merchants.vo.PassTemplate;
+import com.cn.lx.merchants.vo.Response;
 
 /**
  * @author StevenLu

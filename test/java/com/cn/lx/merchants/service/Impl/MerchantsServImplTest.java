@@ -1,8 +1,8 @@
-package com.cn.lx.merchants.merchants.service.Impl;
+package com.cn.lx.merchants.service.Impl;
 
 import com.alibaba.fastjson.JSON;
-import com.cn.lx.merchants.merchants.vo.CreateMerchantsRequest;
-import com.cn.lx.merchants.merchants.vo.PassTemplate;
+import com.cn.lx.merchants.vo.CreateMerchantsRequest;
+import com.cn.lx.merchants.vo.PassTemplate;
 import org.apache.commons.lang.time.DateUtils;
 import org.junit.Test;
 import org.junit.runner.RunWith;

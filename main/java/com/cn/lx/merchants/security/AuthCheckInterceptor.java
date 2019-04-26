@@ -1,6 +1,6 @@
-package com.cn.lx.merchants.merchants.security;
+package com.cn.lx.merchants.security;
 
-import com.cn.lx.merchants.merchants.constant.Constants;
+import com.cn.lx.merchants.constant.Constants;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.HandlerInterceptor;

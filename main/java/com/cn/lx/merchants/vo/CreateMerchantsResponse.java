@@ -1,4 +1,4 @@
-package com.cn.lx.merchants.merchants.vo;
+package com.cn.lx.merchants.vo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,10 +1,10 @@
-package com.cn.lx.merchants.merchants.controller;
+package com.cn.lx.merchants.controller;
 
 import com.alibaba.fastjson.JSON;
-import com.cn.lx.merchants.merchants.service.Impl.MerchantsServImpl;
-import com.cn.lx.merchants.merchants.vo.CreateMerchantsRequest;
-import com.cn.lx.merchants.merchants.vo.PassTemplate;
-import com.cn.lx.merchants.merchants.vo.Response;
+import com.cn.lx.merchants.service.Impl.MerchantsServImpl;
+import com.cn.lx.merchants.vo.CreateMerchantsRequest;
+import com.cn.lx.merchants.vo.PassTemplate;
+import com.cn.lx.merchants.vo.Response;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

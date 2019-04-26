@@ -1,4 +1,4 @@
-package com.cn.lx.merchants.merchants;
+package com.cn.lx.merchants;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

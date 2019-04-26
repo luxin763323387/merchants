@@ -1,10 +1,9 @@
-package com.cn.lx.merchants.merchants;
+package com.cn.lx.merchants;
 
-import com.cn.lx.merchants.merchants.security.AuthCheckInterceptor;
+import com.cn.lx.merchants.security.AuthCheckInterceptor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.autoconfigure.web.WebMvcAutoConfiguration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 

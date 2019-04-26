@@ -1,4 +1,4 @@
-package com.cn.lx.merchants.merchants.constant;
+package com.cn.lx.merchants.constant;
 
 /**
  * @author StevenLu

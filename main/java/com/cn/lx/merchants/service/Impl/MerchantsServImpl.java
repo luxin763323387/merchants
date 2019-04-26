@@ -1,15 +1,15 @@
-package com.cn.lx.merchants.merchants.service.Impl;
+package com.cn.lx.merchants.service.Impl;
 
 import com.alibaba.fastjson.JSON;
-import com.cn.lx.merchants.merchants.constant.Constants;
-import com.cn.lx.merchants.merchants.constant.ErrorCode;
-import com.cn.lx.merchants.merchants.dao.MerchantsDao;
-import com.cn.lx.merchants.merchants.entity.Merchants;
-import com.cn.lx.merchants.merchants.service.IMerchantsServ;
-import com.cn.lx.merchants.merchants.vo.CreateMerchantsRequest;
-import com.cn.lx.merchants.merchants.vo.CreateMerchantsResponse;
-import com.cn.lx.merchants.merchants.vo.PassTemplate;
-import com.cn.lx.merchants.merchants.vo.Response;
+import com.cn.lx.merchants.constant.Constants;
+import com.cn.lx.merchants.constant.ErrorCode;
+import com.cn.lx.merchants.entity.Merchants;
+import com.cn.lx.merchants.dao.MerchantsDao;
+import com.cn.lx.merchants.service.IMerchantsServ;
+import com.cn.lx.merchants.vo.CreateMerchantsRequest;
+import com.cn.lx.merchants.vo.CreateMerchantsResponse;
+import com.cn.lx.merchants.vo.PassTemplate;
+import com.cn.lx.merchants.vo.Response;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;

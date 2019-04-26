@@ -1,4 +1,4 @@
-package com.cn.lx.merchants.merchants.controller;
+package com.cn.lx.merchants.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

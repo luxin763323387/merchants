@@ -1,7 +1,7 @@
-package com.cn.lx.merchants.merchants.vo;
+package com.cn.lx.merchants.vo;
 
-import com.cn.lx.merchants.merchants.constant.ErrorCode;
-import com.cn.lx.merchants.merchants.dao.MerchantsDao;
+import com.cn.lx.merchants.constant.ErrorCode;
+import com.cn.lx.merchants.dao.MerchantsDao;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
